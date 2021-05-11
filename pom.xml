@@ -5,7 +5,7 @@
         <groupId>com.mt</groupId>
         <artifactId>maven-web-application</artifactId>
         <packaging>war</packaging>
-        <version>2.0</version>
+        <version>2.5-SNAPSHOT</version>
 
         <name>maven-web-application</name>
 
@@ -85,12 +85,12 @@
 	<distributionManagement>
 
 	    <repository>
-	      <id>Nexus</id>
+	      <id>nexus</id>
 	      <name>vasuproject1-Release</name>
 	      <url>http://13.232.12.220:8081/repository/vasuproject1-Release/</url>
 	    </repository>
 	    <snapshotRepository>
-	      <id>Nexus</id>
+	      <id>nexus</id>
 	      <name>vasuproject1-Snapshot</name>
 	      <url>http://13.232.12.220:8081/repository/vasuproject1-Snapshot/</url>
 	    </snapshotRepository>
