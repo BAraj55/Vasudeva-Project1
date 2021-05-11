@@ -3,9 +3,9 @@
         <modelVersion>4.0.0</modelVersion>
 
         <groupId>com.mt</groupId>
-        <artifactId>maven-web-application</artifactId>
+        <artifactId>mvn-web-application</artifactId>
         <packaging>war</packaging>
-        <version>2.1</version>
+        <version>2.0</version>
 
         <name>maven-web-application</name>
 
@@ -102,7 +102,7 @@
                         <plugin>
                                 <groupId>org.apache.maven.plugins</groupId>
                                 <artifactId>maven-compiler-plugin</artifactId>
-                                <version>3.5</version>
+                                <version>3.8</version>
                                 <configuration>
                                         <source>1.8</source>
                                         <target>1.8</target>
