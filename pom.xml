@@ -86,12 +86,12 @@
 
 	    <repository>
 	      <id>Nexus</id>
-	      <name>vasuproject1-Release</name>
+	      <name>Release</name>
 	      <url>http://3.108.58.175:8081/repository/vasuproject1-Release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>Nexus</id>
-	      <name>vasuproject1-Snapshot</name>
+	      <name>Snapshot</name>
 	      <url>http://3.108.58.175:8081/repository/vasuproject1-Snapshot/</url>
 	    </snapshotRepository>
        </distributionManagement>    
